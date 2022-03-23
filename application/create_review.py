@@ -62,4 +62,4 @@ def create_review(restaurant, username, rating, review_text):
         print("Could not add review to restaurant")
 
 
-create_review("AnyCompany French", "hungryhank", 5, "Great food, great price!")
+create_review("AnyCompany Manish", "hungrykumar", 5, "Great food, great price!")
