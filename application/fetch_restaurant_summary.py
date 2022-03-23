@@ -23,7 +23,7 @@ def fetch_restaurant_summary(restaurant_name):
     return restaurant
 
 
-restaurant = fetch_restaurant_summary("AnyCompany Manish")
+restaurant = fetch_restaurant_summary("AnyCompany Fine Dining")
 
 print(restaurant)
 for review in restaurant.reviews:
