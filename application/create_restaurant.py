@@ -26,7 +26,7 @@ def create_restaurant(name, cuisine, address):
 
 
 restaurant = create_restaurant(
-    "AnyCompany French", "French", "541 Salazar Ranch, South Kristen, MS 00857"
+    "AnyCompany Manish", "Indian", "541 HSR Layout, Bengaluru 560103"
 )
 
 if restaurant:
